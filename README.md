@@ -55,7 +55,7 @@ IoT-Intrusion-Detection/
 **CICIDS2017 Dataset** – Provided by the Canadian Institute for Cybersecurity.  
 It includes labeled attack traffic for various intrusion scenarios (DDoS, PortScan, Brute Force, etc.).
 
-Dataset link: [https://www.unb.ca/cic/datasets/ids-2017.html](https://www.unb.ca/cic/datasets/ids-2017.html)
+Dataset link: https://www.unb.ca/cic/datasets/ids-2017.html
 
 ---
 
@@ -63,7 +63,8 @@ Dataset link: [https://www.unb.ca/cic/datasets/ids-2017.html](https://www.unb.ca
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/IoT-Intrusion-Detection.git
+git clone [https://github.com/your-username/IoT-Intrusion-Detection.git](https://github.com/srinithshrajkumar/Detecting-and-Defending-Against-IoT-Intrusions-Leveraging-Data-for-Enhanced-Security/blob/main/Detecting%20and%20Defending%20Against%20IoT%20Intrusions%20Leveraging%20Data%20for%20Enhanced%20Security%20Source%20Code.ipynb)
+
 cd IoT-Intrusion-Detection
 ```
 
