@@ -85,11 +85,11 @@ pip install -r requirements.txt
 
 1. **Preprocess and Train Models**
 ```bash
-python run.py
+Detecting and Defending Against IoT Intrusions Leveraging Data for Enhanced Security.ipynb
 ```
 
 2. **Notebook for Analysis**
-Open `notebooks/analysis.ipynb` in JupyterLab or VSCode for step-by-step execution.
+Open JupyterLab or VSCode for step-by-step execution.
 
 ---
 
@@ -98,8 +98,6 @@ Open `notebooks/analysis.ipynb` in JupyterLab or VSCode for step-by-step executi
 Models are evaluated using the following:
 - Accuracy
 - Precision, Recall, F1-score
-- Confusion Matrix
-- ROC Curve and AUC
 - Feature Importance Visualization
 
 ---
