@@ -18,66 +18,12 @@ This work is being published in **Springer Nature SNAPP, Journal of Network and 
 
 ---
 
-## 📁 Project Structure
-
-```
-IoT-Intrusion-Detection/
-│
-├── data/
-│   ├── CICIDS2017.csv            # Cleaned and preprocessed dataset
-│   ├── features_selected.csv     # Feature-selected dataset
-│
-├── models/
-│   ├── random_forest.pkl         # Trained model
-│   └── svm_model.pkl
-│
-├── notebooks/
-│   └── analysis.ipynb            # Full exploratory and model training notebook
-│
-├── src/
-│   ├── preprocessing.py          # Data cleaning and encoding
-│   ├── feature_selection.py      # Feature selection techniques
-│   ├── model_training.py         # ML model training
-│   └── evaluation.py             # Metrics calculation
-│
-├── report/
-│   └── Final_Report.pdf          # Research report (max 3 pages)
-│
-├── README.md
-├── requirements.txt
-└── run.py                        # Script to execute the pipeline
-```
-
----
-
 ## 🧪 Dataset Used
 
 **CICIDS2017 Dataset** – Provided by the Canadian Institute for Cybersecurity.  
 It includes labeled attack traffic for various intrusion scenarios (DDoS, PortScan, Brute Force, etc.).
 
 Dataset link: https://www.unb.ca/cic/datasets/ids-2017.html
-
----
-
-## ⚙️ Installation and Setup
-
-1. **Clone the Repository**
-```bash
-git clone [https://github.com/your-username/IoT-Intrusion-Detection.git](https://github.com/srinithshrajkumar/Detecting-and-Defending-Against-IoT-Intrusions-Leveraging-Data-for-Enhanced-Security/blob/main/Detecting%20and%20Defending%20Against%20IoT%20Intrusions%20Leveraging%20Data%20for%20Enhanced%20Security%20Source%20Code.ipynb)
-
-cd IoT-Intrusion-Detection
-```
-
-2. **Create a Virtual Environment**
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
-
-3. **Install Dependencies**
-```bash
-pip install -r requirements.txt
-```
 
 ---
 
